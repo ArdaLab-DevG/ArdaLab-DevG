@@ -114,7 +114,7 @@ a:hover {
 
 h1, h2, h3, h4 {
     color: blue;
-    font-size: 3em;
+    font-size: 3em 2.5em 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
