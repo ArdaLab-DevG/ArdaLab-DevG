@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "NIH Poster Festival Days"
+title: "Pic of NIH Poster Day"
 date: 2018-09-14
 ---
 Great poster presentation!!!
 Here is som pics. 
 Cheer!!!
-<a href="/assets/pics/
+<img src="assets/pics/IMG_1177.jpg">
