@@ -30,7 +30,8 @@ a:hover {
     text-decoration: underline;
 }
 
-h1 {
+h1, h2, h3, h4 {
+    color: blue;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
