@@ -11,7 +11,7 @@ Cheer!!!
 <img src="/assets/pics/IMG_1177.jpg" width="250" height="200">
 <img src="/assets/pics/IMG_1188.jpg" width="250" height="200">
 <img src="/assets/pics/IMG_1187.jpg" width="250" height="200">
-<p> <strong>Eliza</strong> (presenter) with her guests at her Poster Section </p>
+<p> align="center" <strong>Eliza</strong> (presenter) with her guests at her Poster Section </p>
 </br>
 </br>
 <img src="/assets/pics/IMG_1190.jpg" width="200" height="150">
