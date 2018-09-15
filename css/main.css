@@ -2,7 +2,7 @@
    box-sizing: border-box; 
   }
   body {
-    margin: 60px auto;
+    margin: 100px auto;
     width: 90%;
     flex-direction: column;
     margin: 0;
