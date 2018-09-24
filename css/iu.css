@@ -189,6 +189,12 @@ h1#titleHead {
     margin:0px 1px 0px 0px;
     padding:0px;
 }
+
+.carousel-inner>.item>a>img,
+.carousel-inner>.item>img,
+.img-responsive,.thumbnail a>img,
+.thumbnail>img{display:block;max-width:100%;height:auto}
+
 #logo-short {
     /*width: 235px;*/
     overflow:hidden;
