@@ -90,8 +90,8 @@ drupal.org/node/897638 */
  ****************************************/
 
 #branding-bar {
-    background: #212121 url(../img/bg-bar.gif) repeat-x 0 100%;
-    color: #fff;
+    background: #f3f3f3 url(../img/bg-bar.gif) repeat-x 0 100%;
+    color: #000;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px; /* Normalize font size */
     line-height: 18px; /* Normalize line height */
