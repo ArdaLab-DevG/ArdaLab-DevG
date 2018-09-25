@@ -349,11 +349,11 @@ h1#titleHead {
 }
 #breadcrumbs a, #breadcrumbs a:visited {
     text-decoration:underline;
-    color:#424545;
+    color:#d4d4d4;
 }
 #breadcrumbs a:hover, #breadcrumbs a:visited:hover {
     text-decoration:underline;
-    color:#424545;
+    color:#d4d4d4;
 }
 #mainContent {
     padding: 0px;
