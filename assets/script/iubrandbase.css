@@ -38,7 +38,7 @@ body {
 /* Wrapper */
 .wrapper {
     margin: 0 auto;
-    max-width: 960px; /* ADJUST THIS TO FIT YOUR SITE */
+    max-width: 1080px; /* ADJUST THIS TO FIT YOUR SITE */
 }
 
 /* Line Break */
@@ -90,7 +90,7 @@ drupal.org/node/897638 */
  ****************************************/
 
 #branding-bar {
-    background: #f3f3f3 url(../img/bg-bar.gif) repeat-x 0 100%;
+    background: #ffffff url(../img/bg-bar.gif) repeat-x 0 100%;
     color: #000;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px; /* Normalize font size */
@@ -126,7 +126,7 @@ drupal.org/node/897638 */
 /*** Bar ***/
 
 #branding-bar .bar {
-    border-top: 6px solid #990000;
+    border-top: 6px solid #ffffff;
 }
 
 /*** Trident Tab & Campus Name ***/
@@ -156,9 +156,9 @@ drupal.org/node/897638 */
 #branding-bar .campus img {
     height: auto;
     left: 5px;
-    position: absolute;
+    position: relative;
     top: -6px;
-    width: 34px;
+    width: 100px;
 }
 #branding-bar .campus .expanded {
     display: none;
