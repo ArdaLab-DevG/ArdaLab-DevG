@@ -301,29 +301,29 @@ h1#titleHead {
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: cover;
-			height: 100%;
+			height: 75%;
 			left: 0;
 			opacity: 0;
 			position: absolute;
 			text-align: center;
 			top: 0;
 			visibility: hidden;
-			width: 125%;
+			width: 100%;
 			z-index: 0;
 		}
 
 			#banner > article:before {
 				content: '';
 				display: inline-block;
-				height: 100%;
+				height: 75%;
 				vertical-align: middle;
 			}
 
 			#banner > article:after {
 				content: '';
 				display: block;
-				width: 125%;
-				height: 100%;
+				width: 100%;
+				height: 75%;
 				position: absolute;
 				top: 0;
 				left: 0;
