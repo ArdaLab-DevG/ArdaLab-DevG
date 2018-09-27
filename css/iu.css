@@ -64,7 +64,7 @@ h1#titleHead {
 }
 
 #wrapper {
-    max-width: 992px;
+    max-width: 1180px;
     margin: 0 auto;
     text-align: left; /* this overrides the text-align: center on the body element. */
     background-color: #FFF;
