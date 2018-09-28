@@ -944,7 +944,7 @@ h1#titleHead {
 	}
 
 		.posts .post {
-			width: calc(33.33333333% - 1.25em);
+			width: calc(50% - 1.5em);
 		}
 
 		@media screen and (max-width: 1280px) {
