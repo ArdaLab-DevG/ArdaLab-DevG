@@ -826,7 +826,7 @@ h1#titleHead {
 }
 .content2Column {
     margin-left: 8px;
-    max-width:717px;
+    max-width:905x;
     padding: 0px;
     overflow:hidden;
 }
@@ -838,7 +838,7 @@ h1#titleHead {
     padding: 0px;
 }
 .content2Column .content {
-    max-width: 696px;
+    max-width: 884px;
 }
 .content3Column .content {
     max-width:453px;
