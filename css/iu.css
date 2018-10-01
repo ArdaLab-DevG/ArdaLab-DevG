@@ -345,7 +345,10 @@ h1#titleHead {
 				vertical-align: middle;
 				z-index: 1;
 			}
-
+			#banner > article .inner h1{
+				front-size: 2.75em;
+				text-align: left;
+				}
 				#banner > article .inner > :last-child {
 					margin-bottom: 0;
 				}
