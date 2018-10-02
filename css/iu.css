@@ -115,7 +115,7 @@ h1#titleHead {
     color: rgb(255, 255, 255);
     padding: 8px 0px 5px 0px;
     margin-left: 244px;
-    max-width: 748px;
+    max-width: 1180px;
     text-align: left;
 }
 #topnav ul {
@@ -187,7 +187,7 @@ h1#titleHead {
     width: 100%;
 }
 #navWrapper {
-    width:243px;
+    width:443px;
     
     float:left;
     margin:0px 1px 0px 0px;
