@@ -177,6 +177,9 @@ h1#titleHead {
     color: #ffffff;
     text-decoration: underline;
 }
+#topnav-right {
+	float: right;
+}
 #headerImage {
     margin:0px;
     padding:0px;
