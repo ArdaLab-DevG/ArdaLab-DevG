@@ -1,8 +1,9 @@
 /* File contains the changes for site builder mobile & IU Brand compatibility [20130904] */
-
-@import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600|Raleway:500,700,800");html {
+html {
 }
+@import url(font-awesome.min.css);
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600|Raleway:500,700,800");
+
 body {
     font-family: Verdana, Arial, "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-size: 10px;
