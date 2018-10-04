@@ -93,7 +93,7 @@ h1#titleHead {
     height: 20px;
     clear:both;
 }
-#main {
+#main { 
     min-height: 500px;
     background-image:url(resources/main-bg.gif);
     background-repeat:repeat-y;
