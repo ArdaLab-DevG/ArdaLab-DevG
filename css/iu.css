@@ -179,7 +179,7 @@ h1#titleHead {
 }
 #topnav-left {
 	float: left;
-	text-transform: normal;
+	text-transform: none;
 }
 #headerImage {
     margin:0px;
