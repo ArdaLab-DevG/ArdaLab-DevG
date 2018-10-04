@@ -178,7 +178,7 @@ h1#titleHead {
     text-decoration: underline;
 }
 #topnav-right {
-	float: right;
+	float: left;
 }
 #headerImage {
     margin:0px;
