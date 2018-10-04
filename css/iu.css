@@ -968,6 +968,95 @@ h1#titleHead {
 				}
 
 		}
+
+/* Icon */
+
+	.icon {
+		text-decoration: none;
+		border-bottom: none;
+		position: relative;
+	}
+
+		.icon:before {
+			-moz-osx-font-smoothing: grayscale;
+			-webkit-font-smoothing: antialiased;
+			font-family: FontAwesome;
+			font-style: normal;
+			font-weight: normal;
+			text-transform: none !important;
+		}
+
+		.icon > .label {
+			display: none;
+		}
+
+		.icon:before {
+			cursor: inherit;
+		}
+
+	.icon-wrapper {
+		width: 4em;
+		height: 2em;
+		line-height: 2em;
+		display: inline-block;
+		text-align: center;
+		position: relative;
+		margin: 1.235em 0;
+	}
+
+		.icon-wrapper:before, .icon-wrapper:after {
+			content: '';
+			width: 0;
+			height: 0;
+			border-left: solid 2em transparent;
+			border-right: solid 2em transparent;
+			position: absolute;
+			left: 0;
+		}
+
+		.icon-wrapper:before {
+			border-bottom: solid 1.235em;
+			top: -1.235em;
+		}
+
+		.icon-wrapper:after {
+			border-top: solid 1.235em;
+			bottom: -1.235em;
+		}
+
+		.icon-wrapper .icon {
+			cursor: default;
+		}
+
+			.icon-wrapper .icon:before {
+				font-size: 1.5rem;
+			}
+
+		.icon-wrapper.major {
+			display: block;
+			margin: 1.235em 0 3.235em 0;
+		}
+
+		.icon-wrapper.small {
+			font-size: 0.75em;
+		}
+
+			.icon-wrapper.small .icon:before {
+				font-size: 1.25rem;
+			}
+
+	.icon-wrapper {
+		background-color: #f6f6f6;
+		box-shadow: 0 -1px 0 0 #f6f6f6, 0 1px 0 0 #f6f6f6;
+	}
+
+		.icon-wrapper:before {
+			border-bottom-color: #f6f6f6;
+		}
+
+		.icon-wrapper:after {
+			border-top-color: #f6f6f6;
+		}
 /* Grid */
 
 	.row {
