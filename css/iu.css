@@ -2517,12 +2517,12 @@ h1#titleHead {
 #contentWrapper {
     margin:0px 0px 0px 244px;
     padding:0px;
-    max-width:900px;
-    font-size: 10px;
+    max-width:948px;
+    font-size: 12px;
     line-height: 1.2;
 }
 #breadcrumbs {
-    font-size: 10px;
+    font-size: 12px;
     color: #990000;
     margin:0px;
     line-height: 22px;
@@ -2558,7 +2558,7 @@ h1#titleHead {
 }
 .content2Column {
     margin-left: 8px;
-    max-width:900x;
+    max-width:920x;
     padding: 0px;
     overflow:hidden;
 }
@@ -2570,7 +2570,7 @@ h1#titleHead {
     padding: 0px;
 }
 .content2Column .content {
-    max-width: 880px;
+    max-width: 896px;
 }
 .content3Column .content {
     max-width:453px;
