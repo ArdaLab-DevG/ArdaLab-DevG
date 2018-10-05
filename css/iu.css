@@ -557,7 +557,7 @@ h1#titleHead {
 				.wrapper.split > .inner > *:before {
 					content: '';
 					display: block;
-					width: 1px;
+					width: 0px;
 					height: 100%;
 					position: absolute;
 					top: 0;
