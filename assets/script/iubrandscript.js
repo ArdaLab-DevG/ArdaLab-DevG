@@ -11,7 +11,7 @@
  ****************************************/
  
 var googleSearchToggleOptions = {
-    searchResultsUrl: 'search/index.shtml',
+    searchResultsUrl: 'search/index.html',
     searchId: 'cse-search-form',
     searchResultsId: 'cse-search-results-form'
 };
