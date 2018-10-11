@@ -18,7 +18,7 @@ var googleSearchToggleOptions = {
 var googleSearchToggles = function() {
     
     // Google brand statement
-    var googleBrand = "Custom Search ...";
+    var googleBrand = "Google Custom Search";
     
     // Prettify options
     for(var prop in googleSearchToggleOptions) this[prop] = googleSearchToggleOptions[prop];
