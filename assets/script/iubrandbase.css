@@ -423,7 +423,7 @@ drupal.org/node/897638 */
 }
 #footer img {
     border: none;  
-    hspace: 10px;
+    hspace: 20px;
 }
 #footer a {
     color: #990000;
@@ -453,7 +453,7 @@ drupal.org/node/897638 */
 #footer .block-iu { 
     display: block;
     margin: 0 auto 5px auto;
-    hspace: 10px;
+    hspace: 20px;
 }
 
 
