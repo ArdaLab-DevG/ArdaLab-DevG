@@ -89,6 +89,7 @@ h1#titleHead {
     left:0px; */
 }
 #pageFooter {
+    width:1180px;
     background-color: #464646;
     height: 20px;
     clear:both;
@@ -3190,7 +3191,7 @@ table.sortable thead td, table.sortable thead tr th {
     padding: 0px 22px 5px 29px;
     vertical-align: bottom;
     clear:both;
-    font-size: 10px;
+    font-size: 12px;
 }
 #footer a, #footer a:visited {
     /*color:#626262;*/
