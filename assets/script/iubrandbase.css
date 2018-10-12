@@ -422,7 +422,8 @@ drupal.org/node/897638 */
     padding: 0; 
 }
 #footer img {
-    border: none;   
+    border: none;  
+    hspace: 10px;
 }
 #footer a {
     color: #990000;
@@ -436,7 +437,7 @@ drupal.org/node/897638 */
     line-height: 1.273em; /* 14px (14/11) */
 }
 #footer .tagline {
-    background: #7d110c;
+    background: #b7b7b7;
     color: #fff;
     font-family: "BentonSansCondensedRegular", "Arial Narrow", Arial, Helvetica, sans-serif;
     font-size: 1.636em; /* 18px (18/11) */
@@ -447,10 +448,12 @@ drupal.org/node/897638 */
 }
 #footer .internal {
     margin: 0 0 15px 0; 
+    float: left;
 }
 #footer .block-iu { 
     display: block;
     margin: 0 auto 5px auto;
+    hspace: 10px;
 }
 
 
