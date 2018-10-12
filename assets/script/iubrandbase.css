@@ -448,7 +448,7 @@ drupal.org/node/897638 */
 }
 #footer .internal {
     margin: 0 0 15px 0; 
-    float: left;
+    float: right;
 }
 #footer .block-iu { 
     display: block;
