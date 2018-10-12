@@ -3249,6 +3249,8 @@ table.sortable thead td, table.sortable thead tr th {
 }
 #footer #copyright #blockiu img {
     display: none;
+    hspace: 10px;
+	
 }
 .floatleft {
     float: left;
