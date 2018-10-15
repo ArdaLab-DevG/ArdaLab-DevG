@@ -91,7 +91,7 @@ drupal.org/node/897638 */
 
 #branding-bar {
     background: #ffffff url(../img/bg-bar.gif) repeat-x 0 100%;
-    position: fixed;
+    
     horizontal-align: center;
     color: #000;
     font-family: Arial, Helvetica, sans-serif;
