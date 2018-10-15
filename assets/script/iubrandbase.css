@@ -127,6 +127,8 @@ drupal.org/node/897638 */
 
 #branding-bar .bar {
     border-top: 6px solid #d7d7d7;
+    width: 1180px;
+    
 }
 
 /*** Trident Tab & Campus Name ***/
