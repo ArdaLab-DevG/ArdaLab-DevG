@@ -216,6 +216,7 @@
 }
 #footer .block-iu { 
     float: left;
+    hspace: 10px;
     margin: 0px 9px 0 0;
 }
 
