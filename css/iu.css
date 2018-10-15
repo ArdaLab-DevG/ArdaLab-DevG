@@ -3983,6 +3983,7 @@ border:0;
     text-decoration: none;
     top: 8px !important;
     vertical-align: middle;
+    horizontal-align: center;
     width: auto !important;
     z-index: 200000;
 }
