@@ -3225,7 +3225,7 @@ table.sortable thead td, table.sortable thead tr th {
     margin: 0 auto;
     position: relative;
     text-align: left;
-    height: 33px;   /*width: 760px;*/
+    height: 33px;   /*width: 760px;*/ 
 }
 #footer #copyright a {
     color: #900;
