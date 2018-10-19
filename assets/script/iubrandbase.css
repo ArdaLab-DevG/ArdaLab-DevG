@@ -439,9 +439,10 @@ drupal.org/node/897638 */
 #footer a:hover {
     text-decoration: underline; 
 }
-#footer .wrapper {
+#footer .wrapperd{
     font-size: 0.688em; /* 11px (11/16) */
     line-height: 1.273em; /* 14px (14/11) */
+    horizontal-align: center;
 }
 #footer .tagline {
     background: #b7b7b7;
