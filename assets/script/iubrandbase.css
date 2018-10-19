@@ -421,7 +421,7 @@ drupal.org/node/897638 */
     line-height: 18px; /* Normalize line height */
     margin: 20px 0px 0px 0px;
     padding: 0px 0px 20px -100px;
-    width:1180px;
+    width:1080px;
     
 }
 #footer p {
@@ -459,9 +459,9 @@ drupal.org/node/897638 */
     margin: 0 0 15px 0; 
     float: right;
 }
-#footer .block-iu { 
+#footer .blocklogo{ 
     display: block;
-    margin: 0 auto 5px auto;
+    margin: 0 10px 5px 10px;
     hspace: 10px;
 }
 
