@@ -440,7 +440,6 @@ drupal.org/node/897638 */
     text-decoration: underline; 
 }
 #footer .wrapperd{
-    padding: 5px 0px 0px 10px;
     font-size: 0.688em; /* 11px (11/16) */
     line-height: 1.273em; /* 14px (14/11) */
     horizontal-align: center;
