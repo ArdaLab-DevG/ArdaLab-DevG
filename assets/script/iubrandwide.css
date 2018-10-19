@@ -185,7 +185,7 @@
     margin-top: 0px;
     padding: 40px 0px 30px -100px;
     position: relative;
-    width:1180px;
+    max-width:1080px;
     
     z-index: 1;
 }
@@ -202,7 +202,7 @@
     padding: 8px;
     position: absolute;
     text-align: center;
-    top: -33px;
+    top: -45px;
     width: 55%; 
 }
 #footer .copyright {
@@ -217,7 +217,7 @@
     top: 7px;
     z-index: 1; 
 }
-#footer .block-iu { 
+#footer .blocklogo { 
     float: left;
     hspace: 10px;
     margin: 0px 9px 0 0;
