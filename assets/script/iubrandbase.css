@@ -421,7 +421,7 @@ drupal.org/node/897638 */
     line-height: 18px; /* Normalize line height */
     margin: 20px 0px 0px 0px;
     padding: 0px 0px 20px 0px;
-    /*width: 1180px;*/
+    min-width: 1180px;
     position: relative;
 }
 #footer p {
