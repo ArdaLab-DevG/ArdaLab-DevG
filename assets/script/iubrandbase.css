@@ -98,7 +98,7 @@ drupal.org/node/897638 */
     font-size: 16px; /* Normalize font size */
     line-height: 18px; /* Normalize line height */
     min-height: 46px;
-    width: 100%;
+    /*width: 100%;*/
     overflow: hidden;
     text-align: right;
 }
@@ -130,7 +130,7 @@ drupal.org/node/897638 */
 
 #branding-bar .bar {
     border-top: 6px solid #d7d7d7;
-    width: 100%;
+    /*width: 100%;*/
     horizontal-align: center;
     
 } 
