@@ -190,6 +190,7 @@
 }
 #footer .wrapperd {
     position: relative;
+    min-width:1180px;
    
 }
 #footer .tagline {
