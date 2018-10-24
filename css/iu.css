@@ -125,7 +125,7 @@ h1#titleHead {
     overflow:hidden;
 }
 #topnav li {
-    padding: 0px 6px 0px 11px;
+    padding: 0px 6px 0px 11px; 
     border-left: 1px solid #dddddd;
     list-style:none;
     display:inline;
