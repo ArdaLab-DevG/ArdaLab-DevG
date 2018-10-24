@@ -90,7 +90,7 @@ h1#titleHead {
     left:0px; */
 }
 #pageFooter {
-    width:1180px;
+    min-width: 1180px;
     background-color: #464646;
     height: 20px;
     clear:both;
