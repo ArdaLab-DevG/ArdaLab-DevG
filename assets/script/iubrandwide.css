@@ -214,7 +214,7 @@
 #footer .internal {
     position: absolute;
     right: 10px;
-    float: right;
+    float: right; 
     top: 7px;
     z-index: 1; 
 }
