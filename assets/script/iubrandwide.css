@@ -189,7 +189,7 @@
     z-index: 1;
 }
 #footer .wrapperd {
-    position: relative;
+    /*position: relative;*/
     min-width:1180px;
    
 }
