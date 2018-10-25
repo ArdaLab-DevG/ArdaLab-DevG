@@ -188,9 +188,9 @@
     min-width:1180px;
     z-index: 1;
 }
-#footer .wrapperd {
-    /*position: relative;*/
-    max-width:1180px;
+#footer .wrapper{
+    position: relative;
+    /*max-width:1180px;*/
     /*margin: 0px 0px 0px 244px;*/
    
 }
