@@ -198,12 +198,12 @@
     font-size: 2.545em; /* 28px (28/11) */
     left: 50%;
     line-height: 1em; /* 28px (28/28) */
-    margin: 0 0 0 -300px;
+    margin: 0 0 0 -333px;
     max-width: 1180px;
     padding: 8px;
     position: absolute;
     text-align: center;
-    top: -45px;
+    top: -66px;
     width: 55%; 
 }
 #footer .copyright {
