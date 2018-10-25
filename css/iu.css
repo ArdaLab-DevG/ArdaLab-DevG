@@ -9,7 +9,7 @@ body {
     font-size: 12px;
     font-weight: normal;
     text-decoration: none;
-    background-color: #fffaea;
+    background-color: #fff;
     margin: 0px;
     padding: 0px;
     /*background-color:#303030;
@@ -64,21 +64,21 @@ h1#titleHead {
 }
 
 #background {
-    background-color: #fffaea;
+    background-color: #ffffff;
 }
 
 #wrapper {
     max-width: 1180px;
     margin: 0 auto;
     text-align: left; /* this overrides the text-align: center on the body element. */
-    background-color: #FFF;
+    background-color: #dbddda;
     /*background-image:url(resources/main-bg.gif);
     background-repeat:repeat-y;*/
     /*border: 1px solid rgb(204, 204, 204);*/
     border-top: 0px solid white;
     border-bottom: 0px solid white;
     margin-bottom: -20px;
-    box-shadow: 0px 5px 5px #999999;
+    box-shadow: 0px 8px 8px #3d3d3d;
 }
 
 
@@ -2666,11 +2666,11 @@ ul.bulleted-icons {
     margin:0px 0px 0px 244px;
     padding:0px;
     max-width:948px;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.2;
 }
 #breadcrumbs {
-    font-size: 12px;
+    font-size: 14px;
     color: #990000;
     margin:0px;
     line-height: 22px;
@@ -2726,7 +2726,7 @@ ul.bulleted-icons {
 .content {
     padding: 7px 1px 10px 22px;
     margin:0px 29px 20px 0px;
-    font-size: 12px;
+    font-size: 14px;
     color: #424545;
     line-height: 1.4;
     overflow:hidden;
