@@ -129,7 +129,8 @@ drupal.org/node/897638 */
 /*** Bar ***/
 
 #branding-bar .bar {
-    border-top: 6px solid #d7d7d7;
+    /*border-top: 6px solid #d7d7d7;*/
+    border-bottom: 10px solid #ddd;
     min-width: 1180px;
     horizontal-align: center;
     
