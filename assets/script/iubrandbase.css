@@ -439,11 +439,11 @@ drupal.org/node/897638 */
 #footer a:hover {
     text-decoration: underline; 
 }
-#footer .wrapperd{
+#footer .wrapper{
     font-size: 0.688em; /* 11px (11/16) */
     line-height: 1.273em; /* 14px (14/11) */
-    horizontal-align: center;
-    max-width: 1180px;
+    /*horizontal-align: center;
+    max-width: 1180px;*/
 }
 #footer .tagline {
     background: #b7b7b7;
