@@ -71,7 +71,7 @@ h1#titleHead {
     max-width: 1180px;
     margin: 0 auto;
     text-align: left; /* this overrides the text-align: center on the body element. */
-    background-color: #e2dfee;
+    background-color: #c2dfee;
     /*background-image:url(resources/main-bg.gif);
     background-repeat:repeat-y;*/
     /*border: 1px solid rgb(204, 204, 204);*/
