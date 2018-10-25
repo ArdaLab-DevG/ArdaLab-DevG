@@ -3193,6 +3193,8 @@ table.sortable thead td, table.sortable thead tr th {
     vertical-align: bottom;
     clear:both;
     font-size: 12px;
+    min-width: 1180px;
+	
 }
 #footer a, #footer a:visited {
     /*color:#626262;*/
