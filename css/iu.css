@@ -3188,7 +3188,7 @@ table.sortable thead td, table.sortable thead tr th {
 
 #footer {
     color: #626262;
-    margin: 0px 0px 0px 150px;
+    margin: 0px 0px 0px 0px;
     padding: 0px 22px 5px 29px;
     vertical-align: bottom;
     clear:both;
