@@ -14,7 +14,9 @@ body {
     padding: 0px;
     /*background-color:#303030;*/
     background-image: url("/assets/pics/Picture2.jpg");
-    background-repeat: repeat-x;
+    background-repeat: repeat;
+    background-image. filter: blur(8px);
+ 
 }
 img {
     border:0px;
