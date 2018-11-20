@@ -98,7 +98,7 @@ drupal.org/node/897638 */
     font-size: 16px; /* Normalize font size */
     line-height: 18px; /* Normalize line height */
     min-height: 46px;
-    min-width: 1180px;
+    /*min-width: 1180px;*/
     overflow: hidden;
     text-align: right;
 }
@@ -422,7 +422,7 @@ drupal.org/node/897638 */
     line-height: 18px; /* Normalize line height */
     margin: 20px 0px 0px 0px;
     padding: 0px 0px 20px 0px;
-    min-width: 1180px;
+    /*min-width: 1180px;*/
     /*position: relative;*/
 }
 #footer p {
