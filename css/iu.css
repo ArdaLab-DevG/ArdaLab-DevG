@@ -12,9 +12,9 @@ body {
     background-color: #fff;
     margin: 0px;
     padding: 0px;
-    /*background-color:#303030;
-    background-image: url(resources/stripeback.png);
-    background-repeat: repeat-x;*/
+    /*background-color:#303030;*/
+    background-image: url(assets/pics/Picture1.jpg);
+    background-repeat: repeat-x;
 }
 img {
     border:0px;
