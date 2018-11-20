@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+	<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+<meta content="index,follow" name="robots"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="home" name="keywords"/>
+<link rel="shortcut icon" href="https://ccr.cancer.gov/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<script type="application/ld+json">
+{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Laboratory of Receptor Biology and Gene Expression","@id":"https:\/\/ccr.cancer.gov\/Laboratory-of-Receptor-Biology-and-Gene-Expression"}}]}
+</script><meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="width" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://ccr.cancer.gov/Laboratory-of-Receptor-Biology-and-Gene-Expression/h-efsun-arda" />
+<link rel="shortlink" href="https://ccr.cancer.gov/node/19592" />
+<meta property="og:site_name" content="Center for Cancer Research" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ccr.cancer.gov/Laboratory-of-Receptor-Biology-and-Gene-Expression/h-efsun-arda" />
+<meta property="og:title" content="H. Efsun Arda, Ph.D." />
+<meta property="og:updated_time" content="2018-05-30T12:55:10-04:00" />
+<meta property="article:published_time" content="2017-09-25T09:21:00-04:00" />
+<meta property="article:modified_time" content="2018-05-30T12:55:10-04:00" /> 
+		
+<!-- for the mobile/print/front awesome and reset purpose --> 
+    <link href="/assets/script/reset.css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="/assets/script/mobile.css" id="mobileStyle" media="only screen and (max-width:550px)" rel="stylesheet" type="text/css"/>
+    <link href="/assets/script/print.css" media="print" rel="stylesheet" type="text/css"/>
+    <link href="/assets/script/iubrandbase.css" rel="stylesheet" type="text/css"/>
+    <link href="assets/script/iubrandwide.css" media="(min-width: 48.000em)" rel="stylesheet" type="text/css"/>
+    <link href="https://use.fontawesome.com/releases/v5.1.0/css/brands.css" rel="stylesheet" type="text/css"/>
+    <link href="https://use.fontawesome.com/releases/v5.1.0/css/fontawesome.css" rel="stylesheet" type="text/css"/>
+<!--title>Home</title-->
+    <title>{{ page.title }}</title>
+<!-- link to main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="/css/iu.css">
+<!--scripts-->
+		<script src="assets/script/jquery.min.js"></script>
+		<script src="assets/script/jquery.dropotron.min.js"></script>
+		<script src="assets/script/mobile-menu.js"></script>
+    		<script src="assets/script/featureboxes.js"></script>
+		<script src="assets/script/jquery.scrollex.min.js"></script>
+		<script src="assets/script/skel.min.js"></script>
+		<script src="assets/script/util.js"></script> 
+		<script src="assets/script/main.js"></script> 
+		<script src="assets/script/iubrandscript.js" type="text/javascript"></script>
+		<script type="text/javascript">
+       			 var googleSearchToggleOptions = {
+            		 searchResultsUrl: 'search.php',
+            		 searchId: 'cse-search-form',
+                        searchResultsId: 'cse-search-results-form' 
+        			};
+   		</script>
+<style>
+	#background {background: #fff; 
+	}
+</style>
+	</head>
+	
+		
+    <body>
+<!--div id="skipNav">
+    <a accesskey="c" class="visuallyhidden internalSkip" href="#index.html" title="jump to content">jump to content</a>
+</div-->
+<div id="branding-bar" horizontal-align="center">
+	<div class="bar">
+		<div class="wrapper">
+			<p class="campus"><a href="https://www.cancer.gov/" title="National Cancer Institute">
+                  <span><img alt="Arda" height="100" src="/assets/pics/Picture.jpg" width="200"/> </span>	
+                  <span><img alt="NCI" height="200" src="/assets/pics/logo/nci-logo-600.jpg" width="200"/>National Cancer Institude </span>	
+		         <br/><span style="text-transform: none; color: #990000; text-align: center;">Center for Cancer Research</span></a></p>
+			<div id="cse-search">
+				<!--form action="http://www.google.com/cse" id="cse-search-form" method="get" role="search">
+					<fieldset id="cse-search-fieldset1">
+						<legend class="visuallyhidden">Choose which site to search</legend>
+							<ul><li><input checked="checked" id="cse-search-option1" name="q" type="radio" value="https://ardalab-devg.github.io/"/>
+								<label for="cse-search-option1">This site</label></li>
+							<li><input id="cse-search-option2" name="q" type="radio" value="https://ccr.cancer.gov/Laboratory-of-Receptor-Biology-and-Gene-Expression/h-efsun-arda"/>
+								<label for="cse-search-option2">NCI</label>
+							</li></ul>
+					</fieldset>
+			        	<fieldset id="cse-search-fieldset2">
+						<label class="visuallyhidden" for="cse-search-keywords">Search keywords</label>
+						<input id="cse-search-keywords" name="as_q" placeholder="Search ... " type="text"/><button id="cse-search-submit" name="cse-search-submit" type="submit">
+						<span class="visuallyhidden">Submit Search</span>
+				        	</button><input name="cx" type="hidden" value="015259877170389514313:f7mbppu3dj0"/><input name="ie" type="hidden" value="UTF-8"/><input name="nojs" type="hidden" value="1"/>
+					</fieldset>
+				</form-->
+				<!--p class="toggle search close"><a href="#"><span>Close</span> Search</a></p-->
+			</div> <!-- end cse-search-->
+			<div class="toggles"><p class="toggle search open"><a href="#cse-search"><span>Open</span> Search</a></p>
+			</div> <!-- end of toggles--> 
+		</div> <!-- end wrappera-->
+  	</div> <!-- end of bar-->
+</div> <!-- end of branding-bar-->
+	    </div> <!-- end of SkipNav-->
+	    
+<div id=background>
+	    
+<div id="wrapper">
+       <div class="noPrint" id="topnav-full"><ul><li class="first"> 
+           <a href="https://www.nih.gov/" target="_blank" title="">NIH Website</a> 
+           </li><li>
+           <a href="https://www.cancer.gov/" title="">NCI</a> 
+           </li><li>
+           <a href="https://ccr.cancer.gov/" target="_blank" title="">CCR</a> 
+	       <!--ul>
+			<li><a href="Investigator.html">Investigator</a></li>
+			<li><a href="Regulation.html">Postdoctoral Fellows</a></li>
+			<li><a href="Regulation.html">Postbaccalaureate Fellows</a></li>
+			<li><a href="Regulation.html">Collaborating Lab</a></li>
+			<li><a href="Regulation.html">Technician</a></li>
+			</ul><don't show correctly-->
+           </li></ul>
+	<div class="noPrint" id="topnav-left">
+	   <h1 style="text-align:left; font-size: 20px; text-transform: normal; 
+		      font-weight: 850; color: #990000; vertical-align: middle;">  LRBGE: ArdaLab-DevG Group</h1>
+	</div> <!-- end of topnav-left-->
+	</div><!-- end of topnav-full-->
+	
+	
+   <!--div id="fullbanner"><div class="trans", don't use it-->   
+<section id="banner">
+	<article>
+        	<img src="/assets/pics/IMG_1177.jpg" alt="PIC1">
+       		<div class="inner">
+         		<h2>NIH poster Day</h2>
+         		<p>Poster Day is always so much fun!</p>
+        	</div> <!-- end of inner--> 
+	</article>
+	<article>
+        	<img src="/assets/pics/Slide1.png" alt="PIC2">
+        	<div class="inner">
+         		<h2>Study Cells</h2>
+          		<p>Thank you, Mistery!</p>
+        	</div> <!-- end of inner2-->
+	</article>
+	<article>
+        	<img src="/assets/pics/pancreas-banner1.jpg" alt="PIC3">
+        	<div class="inner">
+          		<h2>Another Research area</h2>
+          		<p>We love to discover new things!</p>
+        	</div> <!-- end of inner 3-->
+	</article>
+</section><!-- end of section banner-->
+	
+<div id="main">
+	<div id="navWrapper"> 
+		<div aria-label="site-wide" id="nav" role="navigation">
+			<ul id="nav-secondary">
+				<li><a href="home.html">Home</a></li>
+				<li><a href="Research.html">Research</a></li>
+				<li><a href="Publications.html">Publications</a></li>
+				<li><a href="People.html">People</a></li>
+				<li><a href="News.html">News</a></li>
+				<li><a href="Photos.html">Photos</a></li>
+				<!--li><a href="Announcements.html">Announcements</a></li-->
+				<li><a href="Contact Us.html">Contact Us</a></li>
+			</ul> 
+		<!--div id="nav-misc">
+			<ul>
+				<li class="standard">
+				<span class="secondaryNavTop"><a href="" title=""></a></span>
+				</li>
+			</ul>
+		</div!--> <!-- end of nav-misc-->   
+  		</div><!--end #nav-->
+	</div> <!--end of navWrapper-->
+
+	<div id="contentWrapper">
+    		<!-- start: added for mobile optimization -->
+    		<div class="mobimenu-tab">
+        		<span class="collapsed">menu</span>
+    		</div><!-- end: added for mobile optimization -->
+  
+		<div id="breadcrumbs"><span><a href="home.html">ArdaLab-DevG</a>&#187; Photos</span> 
+		</div><!--end #breadcrumbs-->
+	</div><!--end #contentWrapper-->
+
+	<div aria-label="main-content" class="content2Column" id="mainContent" role="main">
+		<div class="boxTop"></div>
+			<div class="content">
+				<div class="paragraphstyle" style="text-align: justify;">
+					<p class="paragraphstyle">Welcome to > </p>
+				</div><!--end of paragraphstyle-->
+			</div> <!-- end of content-->
+		</div> <!-- end of boxtop-->
+	</div> <!-- end of main-content-->
+	
+		
+</div> <!-- end of main-->
+</div> <!-- end of wrappera-->
+</div> <!-- end of background-->
+	    
+		    <!--h3 class="text-muted"><a href="/">EA-LW-ED-JW-NT</a></h3>
+	   
+			<div class="container">
+			
+			{{ content }}
+			
+			</div-->
+			<!-- /.container -->
+<system-region name="DEFAULT">
+<div id="footer" role="contentinfo">
+	<div class="wrapper">
+		<p class="tagline">Stop. Think. Question. Discover. </p>
+		<!--p class="internal"><a href="#">Privacy Notice</a></p-->
+		<div class="internal" float="right">
+		<p class="internal" float="right">
+			<ul>
+	      			<li><a href="mailto:ArdaLab@example.com">email: Ardalab@example.com</a></li><br/>
+	       			<li><a href="https://github.com/ArdaLab">Website: github.com/ArdaLab</a></li>
+			</ul></p>
+	       </div><div>
+		<p class="copyright">
+			<a class="blocklogo" href="http://www.cancer.gov/" hspace="15">
+				<img alt="Alt logo" src="/assets/pics/logo/US-NIH-NCI-Logo.png" height="30" width="50" hspace="15"/></a>
+			<a class="blocklogo" href="http://www.nih.gov/" hspace="15">	
+				<img alt="Alt logo" src="/assets/pics/logo/dhhs_logo_black.png" height="30" width="30" hspace="15"/></a>
+		  <span class="line-break"><a href="http://www.iu.edu/copyright/index.shtml">Copyright</a> &#169; 
+         		<script type="text/javascript">
+              			 var theDate=new Date()
+                 		document.write(theDate.getFullYear())
+       			 </script>
+		  </span>
+		  <span class="line-break">The Trustees of <a href="http://www.iu.edu/">Indiana University</a>,
+		  </span><span class="line-break"><a href="http://www.iu.edu/copyright/complaints.shtml">Copyright Complaints</a>
+	          </span><br/><span class="line-break"><a href="https://wcms.iu.edu" target="_blank">Powered by the IU WCMS using Site Builder</a>
+		  </span>
+	
+	</p></div>
+	 
+	<div class="mobi-full"><a class="switch" href="#" id="screen">view full site</a></div><!--end mobi-full-->
+	</div> <!-- end of wrapperd-->
+	</div> <!-- end of footer-->
+<span>
+</span>
+</system-region><!-- end of system-region-->     
+	  
+</body>
+	
+ </html>
