@@ -458,7 +458,7 @@ drupal.org/node/897638 */
 }
 #footer .internal {
     margin: 0 0 15px 0; 
-    float: right;
+    /*float: right;*/
 }
 #footer .blocklogo{ 
     display: block;
