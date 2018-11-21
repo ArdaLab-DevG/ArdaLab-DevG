@@ -189,7 +189,7 @@ h1#titleHead {
     margin:0px;
     padding:0px;
     overflow: hidden;
-    float: left;
+    float: right;
 }
 
 #headerImage img {
