@@ -189,14 +189,17 @@ h1#titleHead {
     margin:0px;
     padding:0px;
     overflow: hidden;
+    float: left;
 }
 
 #headerImage img {
-    width: 100%;
+    width: 50%;
+    
+	
+	
 }
 #navWrapper {
     width:243px;
-    
     float:left;
     margin:0px 1px 0px 0px;
     padding:0px;
