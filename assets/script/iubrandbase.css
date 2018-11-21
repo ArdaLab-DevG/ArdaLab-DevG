@@ -161,11 +161,11 @@ drupal.org/node/897638 */
     text-decoration: none;  
 }
 #branding-bar .campus img {
-    height: auto;
+    height: 78px;
     left: 5px;
     position: absolute;
     top: 5px;
-    width: 300px;
+    width: auto;
 }
 #branding-bar .campus .expanded {
     display: none;
