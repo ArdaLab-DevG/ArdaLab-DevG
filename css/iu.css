@@ -174,11 +174,11 @@ h1#titleHead {
     border-left: none;/*    background-image:none !important; */
 }
 #topnav-full a, #topnav-full a:visited {
-    color: #ffffff;
+    color: #bfbfbf;
     text-decoration: none;
 }
 #topnav-full a:hover, #topnav-full a:visited:hover {
-    color: #ffffff;
+    color: #bfbfbf;
     text-decoration: underline;
 }
 #topnav-left {
