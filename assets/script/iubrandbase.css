@@ -47,7 +47,7 @@ body {
 }
 .column2 {
     float: right;
-    width: 33%;
+    /*width: 33%;*/
 }
 /* Line Break */
 .line-break {
