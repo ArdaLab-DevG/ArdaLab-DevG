@@ -113,7 +113,7 @@ h1#titleHead {
 }
 #topnav {
     height: 16px;
-    background-color: rgb(200, 200, 200);
+    background-color: #bfbfbf;
     font-size: 11px;
     text-transform: uppercase;
     color: rgb(255, 255, 255);
@@ -146,7 +146,7 @@ h1#titleHead {
 }
 #topnav-full {
     height:16px;
-    background-color:#bfbfbf;
+    background-color: #bfbfbf;
     font-size:14px;
     text-transform:uppercase;
     color:#ffffff;
