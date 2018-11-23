@@ -41,7 +41,14 @@ body {
     max-width: 1148px; /* ADJUST THIS TO FIT YOUR SITE */
     min-height: 68px;
 }
-
+.column1 {
+    float: left;
+    width: 33%;
+}
+.column2 {
+    float: right;
+    width: 33%;
+}
 /* Line Break */
 .line-break {
     display: block; 
