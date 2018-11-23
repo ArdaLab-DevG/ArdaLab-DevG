@@ -39,6 +39,7 @@ body {
 .wrapper {
     margin: 0 auto;
     max-width: 1148px; /* ADJUST THIS TO FIT YOUR SITE */
+    min-height: 78px;
 }
 
 /* Line Break */
