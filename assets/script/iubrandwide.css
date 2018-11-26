@@ -195,10 +195,10 @@
    
 }
 #footer .tagline {
-    font-size: 2.545em; /* 28px (28/11) */
+    font-size: 3.545em; /* 28px (28/11) */
     left: 50%;
     line-height: 1em; /* 28px (28/28) */
-    margin: 0 0 0 -333px;
+    margin: 0 0 0 -300px;
     max-width: 444px;
     padding: 8px;
     position: absolute;
