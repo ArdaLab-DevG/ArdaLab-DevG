@@ -1566,7 +1566,7 @@ border:0;
     color:#000;
 }
 #wrapper #main #contentWrapper #breadcrumbs span {
-    float:left;
+    float:left; 
 }
 #wrapper #main #contentWrapper #breadcrumbs .output {
     float:right;
