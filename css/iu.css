@@ -2242,7 +2242,7 @@ border:0;
 				}
 
 				.wrapper.split > .inner > * {
-					width: calc(50% - 2em);
+					width: calc(50% - 1em);
 				}
 
 					.wrapper.split > .inner > *:before {
