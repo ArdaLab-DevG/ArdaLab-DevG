@@ -1905,7 +1905,7 @@ border:0;
 					.wrapper.split > .inner > *:first-child:before {
 						display: none;
 					}
-.wrapper.style2 {
+.wrapper.style2 { 
 			background-color: #f6f6f6;
 			color: #444;
 			border-top: 0;
