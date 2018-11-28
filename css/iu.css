@@ -1406,7 +1406,7 @@ form .instructions {
 }
 #fullbanner div.header-background-05 {
     height: 150px;
-    background-image:url(../../../iuTemplates2/files/css/resources/banner-05-992x150.jpg)
+    background-image:url(../../../iuTemplates2/files/css/resources/banner-05-992x150.jpg) 
 }
 #fullbanner div.header-background-06 {
     height: 150px;
