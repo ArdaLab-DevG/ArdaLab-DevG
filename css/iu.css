@@ -48,7 +48,7 @@ p {
 }
 hr, div.hr {
     height: 14px;
-    background-image:url("resources/50percblack.png");
+    /*background-image:url("resources/50percblack.png");*/
     background-repeat:repeat-x;
     border: none;
 }
