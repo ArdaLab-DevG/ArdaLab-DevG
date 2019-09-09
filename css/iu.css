@@ -48,7 +48,7 @@ p {
 }
 hr, div.hr {
     height: 14px;
-    background-image:url(resources/h-rule.gif);
+    background-image:url("assets/pics/BKGD.jpg");
     background-repeat:repeat-x;
     border: none;
 }
@@ -99,7 +99,7 @@ h1#titleHead {
 }
 #main { 
     min-height: 500px;
-    background-image:url(resources/main-bg.gif);
+    background-image:url("assets/pics/BKGD.jpg");
     background-repeat:repeat-y;
     margin:-1px 0px 0px 0px;
     padding:0px;
