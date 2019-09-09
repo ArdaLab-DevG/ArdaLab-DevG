@@ -12,8 +12,10 @@
     <link href="assets/script/reset.css" media="all" rel="stylesheet" type="text/css"/>
     <link href="assets/script/mobile.css" id="mobileStyle" media="only screen and (max-width:550px)" rel="stylesheet" type="text/css"/>
     <link href="assets/script/print.css" media="print" rel="stylesheet" type="text/css"/>
-    <link href="assets/script/iubrandbase.css" rel="stylesheet" type="text/css"/>
+     <link href="assets/script/iubrandbase.css" rel="stylesheet" type="text/css"/>
     <link href="assets/script/iubrandwide.css" media="(min-width: 48.000em)" rel="stylesheet" type="text/css"/>
+    <link href="https://use.fontawesome.com/releases/v5.1.0/css/brands.css" rel="stylesheet" type="text/css"/>
+    <link href="https://use.fontawesome.com/releases/v5.1.0/css/fontawesome.css" rel="stylesheet" type="text/css"/>
 <!--title>Home</title-->
     <title>{{ page.title }}</title>
 <!-- link to main stylesheet -->
@@ -27,6 +29,7 @@
 		<script src="assets/script/skel.min.js"></script>
 		<script src="assets/script/util.js"></script> 
 		<script src="assets/script/main.js"></script> 
+		<script src="assets/script/iubrandscript.js" type="text/javascript"></script>
 		<script type="text/javascript">
        			 var googleSearchToggleOptions = {
             		 searchResultsUrl: 'search.php',
@@ -48,7 +51,10 @@
 <div id="branding-bar">
 	<div class="bar">
 		<div class="wrapper">
-			<p class="campus"><a href="https://www.cancer.gov/" title="National Cancer Institute">
+			<p class="column1"><a href="https://ardalab-devg.github.io/" title="Arda DevG Group">
+	          <span><img alt="Arda" height="78px" src="assets/pics/logo/ArdaLab.jpg" width="350px"/></span></a></p>
+		<p class ="column2"><a href="https://www.cancer.gov/" title="National Cancer Institute">
+			<!--p class="campus"><a href="https://www.cancer.gov/" title="National Cancer Institute">
 			<img alt="NCI" height="100" src="assets/pics/logo/nci-logo-600.jpg" width="135"/>National Cancer Institude</a></p>
 			<div id="cse-search">
 				<form action="http://www.google.com/cse" id="cse-search-form" method="get" role="search">
@@ -70,45 +76,50 @@
 		<div class="toggles"><p class="toggle search open"><a href="#cse-search"><span>Open</span> Search</a></p></div>
 		</div>
 	</div>
-</div>
+</div-->
+</div> <!-- end wrapper-->
+  	</div> <!-- end of bar-->
+</div> <!-- end of branding-bar-->
+</div> <!-- end of SkipNav-->
 
 <div id="wrapper"><div class="noPrint" id="topnav-full"><ul><li class="first"> 
        
        
-      <a href="http://www.iupui.edu/" target="_blank" title="">IUPUI Website</a> 
-       </li><li> 
-       
-       
-      <a href="http://onestart.iu.edu" title="">One Start</a> 
-       </li><li> 
-       
-       
-      <a href="http://www.iupui.edu/~bbrc/home.php" target="_blank" title="">BBRC</a> 
-       </li></ul></div>  
+     <a href="https://www.nih.gov/" target="_blank" title="">NIH Website</a> 
+           </li><li>
+           <a href="https://www.cancer.gov/" title="">NCI</a> 
+           </li><li>
+           <a href="https://ccr.cancer.gov/" target="_blank" title="">CCR</a> 
+           </li></ul>
+	<div class="noPrint" id="topnav-left">
+	   <h1 style="text-align:left; font-size: 20px; text-transform: normal; 
+		      font-weight: 850; color: #990000; vertical-align: middle;"> H. Efsun Arda, Ph.D.</h1>
+	</div> <!-- end of topnav-left-->
+	</div><!-- end of topnav-full-->
 	
 	
    <!--div id="fullbanner"><div class="trans"-->   
 	<section id="banner">
 		<h1> ArdaLab-DevG </h1>
 		<article>
-        <img src="assets/pics/IMG_1177.jpg" alt="Los Angeles">
+        <img src="assets/pics/IMG_1177.jpg" alt="PIC1">
         <div class="inner">
-          <h3>Los Angeles</h3>
-          <p>LA is always so much fun!</p>
+          <h3>NIH poster Day</h3>
+          <p>Poster Dta is always so much fun!</p>
         </div>
 		</article>
 		<article>
-        <img src="assets/pics/rna-biology.jpg" alt="Chicago">
+        <img src="assets/pics/rna-biology.jpg" alt="PIC2">
         <div class="inner">
-          <h3>Chicago</h3>
-          <p>Thank you, Chicago!</p>
+          <h3>Study Cells</h3>
+          <p>Thank you, Mistery!</p>
         </div>
 		</article>
 		<article>
-        <img src="assets/pics/IMG_1192.jpg" alt="New York">
+        <img src="assets/pics/Slide1.png" alt="PIC3">
         <div class="inner">
-          <h3>New York</h3>
-          <p>We love the Big Apple!</p>
+          <h3>Another NIH Event</h3>
+          <p>We love to have fun!</p>
         </div>
 		</article>
   
@@ -118,13 +129,13 @@
 <div aria-label="site-wide" id="nav" role="navigation">
 	<ul id="nav-secondary">
 		<li><a href="home/index.html">Home</a></li>
-		<li><a href="Research.php">Research</a></li>
-		<li><a href="Publications.php">Publications</a></li>
-		<li><a href="People.php">People</a></li>
-		<li><a href="/blog/index.html">News</a></li>
-		<li><a href="Photos.php">Photos</a></li>
-		<li><a href="Announcements.php">Announcements</a></li>
-		<li><a href="Contact Us.php">Contact Us</a></li>
+		<li><a href="Research.html">Research</a></li>
+		<li><a href="Publications.html">Publications</a></li>
+		<li><a href="People.html">People</a></li>
+		<!--li><a href="/blog/index.html">News</a></li-->
+		<li><a href="Photos.html">Photos</a></li>
+		<!--li><a href="Announcements.php">Announcements</a></li-->
+		<li><a href="Contact Us.html">Contact Us</a></li>
 	</ul> 
 	<div id="nav-misc">
 		<ul>
@@ -142,7 +153,7 @@
         <span class="collapsed">menu</span>
     </div><!-- end: added for mobile optimization -->
   
-<div id="breadcrumbs"><span><a href="/home/index.html">Home</a>                            
+<div id="breadcrumbs"><span><a href="home.html">Home</a>                            
 	&#187; Home</span> </div><!--end #breadcrumbs-->
 </div><!--end #contentWrapper-->
 
@@ -159,7 +170,7 @@ To understand the molecular anomalies that lead to organ dysfunction and disease
 <div class="1"> 
  <h3>Genetics and Genomics</h3>
  <a href="https://irp.nih.gov/our-research/scientific-focus-areas/genetics-and-genomics">
-  <img src="/assets/pics/GeneExp.jpg" width="250" height="175"> </a>
+  <img src="assets/pics/GeneExp.jpg" width="250" height="175"> </a>
  <p>
    <a href="https://irp.nih.gov/our-research/scientific-focus-areas/genetics-and-genomics"> <button class="button">
     Learn more</button> </a>
@@ -168,7 +179,7 @@ To understand the molecular anomalies that lead to organ dysfunction and disease
  
 <div class="2">
 <h3>Chromatin</h3>
- <img src="/assets/pics/Chromatin.jpg" width="175" height="175">
+ <img src="assets/pics/Chromatin.jpg" width="175" height="175">
  <p>
   <a href="https://irp.nih.gov/our-research/scientific-focus-areas/rna-biology"> <button class="button"> 
    Learn more</button></a>
@@ -177,7 +188,7 @@ To understand the molecular anomalies that lead to organ dysfunction and disease
   
 <div class="3">
  <h3>Pancreatic Study</h3>
- <img src="/assets/pics/pancreas-banner1.jpg" width="250" height="175">
+ <img src="assets/pics/pancreas-banner1.jpg" width="250" height="175">
  <p>
   <a href="https://ccr.cancer.gov/Laboratory-of-Receptor-Biology-and-Gene-Expression/h-efsun-arda"> <button class="button">
   Learn more</button></a>
