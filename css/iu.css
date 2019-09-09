@@ -99,7 +99,7 @@ h1#titleHead {
 }
 #main { 
     min-height: 500px;
-    background-image:url("resources/50percblack.png");
+    /*background-image:url("resources/50percblack.png");*/
     background-repeat:repeat-y;
     margin:-1px 0px 0px 0px;
     padding:0px;
